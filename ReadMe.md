@@ -11,8 +11,8 @@ Laravel, con su potencia y popularidad, facilita el desarrollo ágil de aplicaci
 - [03. Cross-Site Request Forgery (CSRF)](https://github.com/Laravel-ASAWL/cross-site-request-forgery-csrf).
 - [04. Autenticación Insegura](https://github.com/Laravel-ASAWL/autenticacion-insegura).
 - [05. Exposición de Datos Sensibles](https://github.com/Laravel-ASAWL/exposicion-datos-sensibles).
-- [06. Diseño inseguro](https://github.com/Laravel-ASAWL/diseno-inseguro).
-- [07. Configuración de seguridad incorrecta](https://github.com/Laravel-ASAWL/configuracion-seguridad-incorrecta).
+- [06. Diseño Inseguro](https://github.com/Laravel-ASAWL/diseno-inseguro).
+- [07. Configuración de Seguridad Incorrecta](https://github.com/Laravel-ASAWL/configuracion-seguridad-incorrecta).
 - [08. Componentes Vulnerables y Desactualizados](https://github.com/Laravel-ASAWL/componentes-vulnerables-desactualizados).
 - [09. Fallos de Validación de Entrada](https://github.com/Laravel-ASAWL/fallos-validacion-entrada).
 - [10. Registro y Monitoreo Insuficientes](https://github.com/Laravel-ASAWL/registro-monitoreo-insuficiente).
